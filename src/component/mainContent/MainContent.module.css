@@ -1,0 +1,76 @@
+
+section {
+    display: flex;
+    margin: 80px auto;
+    justify-content: center;
+    width: 85%;
+    align-items: center;
+    overflow: hidden; 
+}
+
+.left {
+    flex: 1;
+
+}
+
+.left h1 {
+    color: black;
+    font-weight: 900;
+    font-size: 108px;
+    line-height: 102px;
+    margin-bottom: 36px;
+}
+
+.left
+p{
+    font-size: 16px;
+    font-weight: 600;
+    color: grey;
+}
+
+.redButton {
+    width: 150px;
+    height: 41px;
+    margin-top: 36px;
+    margin-right: 40px;
+    background-color: #D01C28;
+    color: white;
+  }
+  
+  .whiteButton {
+    width: 150px;
+    height: 41px;
+    margin-top: 36px;
+    margin-right: 40px;
+    background-color: white;
+    color: black;
+  }
+
+.left
+.last
+{
+    font-size: 16px;
+    font-weight: 400;
+    margin-top: 36px;
+    margin-bottom: 16px;
+    color: grey;
+}
+
+.left
+img{
+margin-right: 16px;
+}
+
+.right
+ {
+    flex: 1;
+   
+}
+
+.right img {
+    height: 487.06px;
+    width: 530px;
+   
+    height: auto;
+    overflow: hidden; 
+}
